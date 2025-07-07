@@ -1,0 +1,44 @@
+body {
+    background: #16c3e3;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.1);
+    padding: 40px 30px;
+    max-width: 370px;
+    width: 100%;
+}
+
+.profile-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-icon i {
+    font-size: 65px;
+    color: #17a2b8;
+}
+
+.form-check-label {
+    font-size: 0.96rem;
+}
+
+.btn-google {
+    background: #fff;
+    color: #444;
+    border: 1px solid #ddd;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
