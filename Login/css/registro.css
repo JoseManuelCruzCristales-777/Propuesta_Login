@@ -1,0 +1,25 @@
+    body {
+      background: #16c3e3;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .register-container {
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 6px 30px rgba(0,0,0,0.13);
+      padding: 38px 28px;
+      max-width: 410px;
+      width: 100%;
+    }
+    .profile-icon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 17px;
+    }
+    .profile-icon i {
+      font-size: 60px;
+      color: #17a2b8;
+    }
